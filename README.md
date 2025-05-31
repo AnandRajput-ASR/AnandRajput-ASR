@@ -61,6 +61,15 @@ Tech Stack:
 
 ---
 
+
+![Anand's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnandRajput-ASR&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnandRajput-ASR&layout=compact&theme=radical)
+
+![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=AnandRajput-ASR.AnandRajput-ASR)
+
+...
+
 ## 🔗 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/anandsrajput)  
