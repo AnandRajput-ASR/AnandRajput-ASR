@@ -15,18 +15,36 @@
 
 ---
 
-## 🚀 Projects (will update with links)
+## 🚀 Projects (Links coming soon!)
 
-- 🔹 Portfolio Website (Angular)
-- 🔹 Shared Node.js Library
-- 🔹 Azure Function + CosmosDB Integration
+- 🔹 Portfolio Website (Angular)  
+- 🔹 [Simple REST API](https://github.com/AnandRajput-ASR/simple-rest-api)  
+- 🔹 [Shared Node Utils](https://github.com/AnandRajput-ASR/shared-node-utils)
 
 ---
+
+### 🔹 [Simple REST API](https://github.com/AnandRajput-ASR/simple-rest-api)
+
+A beginner-friendly Node.js + Express REST API with 3 routes:  
+- `/` – Welcome route  
+- `/users` – Returns list of users  
+- `/products` – Returns list of products  
+
+Includes request logging and easy-to-run setup.
+
+---
+
+### 🧰 [Shared Node Utils](https://github.com/AnandRajput-ASR/shared-node-utils)
+
+A simple Node.js library with reusable utility functions for date formatting and logging.
+
+---
+
 ## 🌐 My Portfolio Website
 
 🚀 Check out my personal developer portfolio built with Angular:  
-[🔗 View Live Site](https://yourusername.github.io/portfolio/)  
-📁 Source Code: [GitHub Repo](https://github.com/yourusername/portfolio)
+[🔗 Live Site](https://AnandRajput-ASR.github.io/portfolio/)  
+📁 Source Code: [GitHub Repo](https://github.com/AnandRajput-ASR/portfolio)
 
 Tech Stack:  
 `Angular` • `SCSS` • `GitHub Pages`
