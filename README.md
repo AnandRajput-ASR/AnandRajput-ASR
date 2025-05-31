@@ -22,6 +22,16 @@
 - 🔹 Azure Function + CosmosDB Integration
 
 ---
+## 🌐 My Portfolio Website
+
+🚀 Check out my personal developer portfolio built with Angular:  
+[🔗 View Live Site](https://yourusername.github.io/portfolio/)  
+📁 Source Code: [GitHub Repo](https://github.com/yourusername/portfolio)
+
+Tech Stack:  
+`Angular` • `SCSS` • `GitHub Pages`
+
+---
 
 ## 📈 GitHub Stats
 
