@@ -32,11 +32,13 @@ A beginner-friendly Node.js + Express REST API with 3 routes:
 
 Includes request logging and easy-to-run setup.
 
----
-
 ### 🧰 [Shared Node Utils](https://github.com/AnandRajput-ASR/shared-node-utils)
 
 A simple Node.js library with reusable utility functions for date formatting and logging.
+
+### 🌐 Markdown Previewer  
+A live Markdown editor and previewer built using Angular.  
+🔗 [View Project](https://github.com/AnandRajput-ASR/markdown-previewer)
 
 ---
 
